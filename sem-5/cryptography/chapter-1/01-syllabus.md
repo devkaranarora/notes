@@ -4,9 +4,9 @@ Security Concept:
  - [ ] Introduction,
  - [ ] Need for security,
  - [ ] Security approaches,
- - [ ] Types of Security attacks,
  - [ ] Security Services,
  - [ ] Security Mechanisms,
+ - [ ] Types of Security attacks,
  - [ ] A model for Network Security
 
 Cryptography: 
