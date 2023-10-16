@@ -1,0 +1,16 @@
+- [ ] Different types of memories in a Computer System,
+- [ ] ROM, RAM and its types
+- [ ] Memory module,
+- [ ] Cache memory,
+- [ ] Construction of HDD
+- [ ]  Hard disk management
+  - [ ]  partitioning,
+  - [ ]  naming,
+  - [ ]  making disk bootable.
+- [ ] data transfer rate
+- [ ] storing methods in different storage devices
+- [ ] Optical memory CD/DVD,
+- [ ] tape drives,
+- [ ] Network attached storage & cloud storage,
+- [ ] Addition and up- gradation of memories in different system.
+- [ ] Faults, diagnosis and correction of all devices mentioned above
