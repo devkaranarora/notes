@@ -1,0 +1,8 @@
+- [ ] Different types of Motherboards in desktops, laptops and servers
+- [ ] Identification of motherboards
+- [ ] Interface slots
+- [ ] ports connections, 
+- [ ] Installation of supporting cards
+- [ ] Introduction to device drivers
+- [ ] Installing uninstalling drivers in win, mac, Linux, Unix enviro. 
+- [ ] Faults, diagnosis and correction motherboard of desktop/laptop
