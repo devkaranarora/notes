@@ -1,0 +1,9 @@
+- [ ] Introduction to Computer Hardware, 
+- [ ] BIOS & Flash BIOS, 
+- [ ] Motherboard of PC and supporting cards, 
+- [ ] Motherboard types, 
+- [ ] Different types of BUS architecture in a PC, 
+- [ ] SMPS and other types of power supplies, 
+- [ ] Grounding or Earthing in input (AC)
+- [ ] power supply  
+- [ ] Significance  
